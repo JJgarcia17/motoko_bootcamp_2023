@@ -1,0 +1,12 @@
+{
+  "canisters":{
+    "day_4":{
+      "main": "main.mo",
+      "type": "motoko"
+    },
+    "remotoLocal":{
+      "main": "remotoCanisterLocal.mo",
+      "type": "motoko"
+    }
+  }
+}
